@@ -85,3 +85,7 @@ Addition of context handling and user personalization.
 
 Conclusion
 This chatbot project is an excellent entry-level application of Natural Language Processing. It introduces fundamental techniques like tokenization, stopword filtering, and intent classification using rule-based methods. Despite its simplicity, it serves as a foundational model for building more sophisticated conversational agents using NLP and AI.
+
+##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/97a61205-8d54-4bf3-b85b-afec58c976f4)
